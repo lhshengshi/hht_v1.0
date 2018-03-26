@@ -1,0 +1,68 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Traffic_Lignt_CU.PrjPCB|ReportField=ProjectFullPath~C:\Users\Administrator\Desktop\2017项目\20171105-cu-2.4定稿\Traffic_Lignt_CU.PrjPCB|ReportField=Title~Bill of Materials For Project [Traffic_Lignt_CU.PrjPCB] (No PCB Document Selected)|ReportField=ReportTime~13:39:40|ReportField=ReportDate~2017/12/27|ReportField=ReportDateTime~2017/12/27 13:39:40|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~238|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2017/12/27|ReportField=CurrentTime~13:39:34|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Administrator\Desktop\2017项目\20171105-cu-2.4定稿\POWER.SchDoc|ReportField=DocumentName~POWER.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2017/11/23|ReportField=Organization~|ReportField=ProjectName~Traffic_Lignt_CU.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Traffic_Lignt_CU.PrjPCB|ReportField=DataSourceFullPath~C:\Users\Administrator\Desktop\2017项目\20171105-cu-2.4定稿\Traffic_Lignt_CU.PrjPCB|ReportField=PCBConfigurationName~Default Configuration|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|CHECK|测试点|1, GNDIN1, VCCIN1, VSS1|CHECK-B|CHE, C|4
+2|ADuM1201||ADuM1|SOIC-8|ADuM1201|1
+3|B0505||B1|B0505D-1WR2|B0505|1
+4|0.01uF|Capacitor|C1|LC-0603_C|CAP|1
+5|100nf|Capacitor|C2, C3, C4, C5, C8, C36, C37, C38, C39, C40, C41, C42, C43, C44|LC-0603_C|CAP|14
+6|104|Capacitor, [NoValue]|C6, C7, C9, C10, C12, C16, C17, C18, C22, C25, C27, C30|LC-0603_C|Cap|12
+7|104|Capacitor|C11, C13, C21, C26, C31|LC-0805_C|Cap|5
+8|10uf/16V|Capacitor|C14, C15, C19, C20, C23, C24, C28, C29|LC-0805_C|Cap|8
+9|0.1uF (104) 10% 50V|贴片电容|C32|LC-1206_C|0805 1uF (105) 10% 50V|1
+10|1uF (105) 10% 50V|贴片电容|C33|LC-0805_C|0805 1uF (105) 10% 50V|1
+11|22pF|Capacitor|C34, C35|LC-0603_C|Cap|2
+12|SS34|二极管|D1|LC-SMA(DO-214AC)_S1|D|1
+13|Diode-Z|稳压二极管|D2|LC-SMA(DO-214AC)_S1|Dio|1
+14|smbj5.0ca|Zener Diode|D3, D8, D9|LC-SMB(DO-214AA)_S1|ZENER3|3
+15|LED||D4|0603_LED_G|LED|1
+16|smbj24ca|Zener Diode|D5|LC-SMB(DO-214AA)_S1|ZENER3|1
+17|smbj5.0ca|Zener Diode|D6, D7|LC-SOD-123|ZENER3|2
+18|红灯 0603|发光二极管|D10|LC-0603_LED_S1|0603 红灯|1
+19|绿灯 0603|发光二极管|D11, D12, D48|0603_LED_G|0|3
+20|MB10S|整流桥|D13, D15, D17, D19|LC-MBS|MBS|4
+21|1N4148|Default Diode|D14, D16, D18, D20|LC-SOD-123|Diode|4
+22|1n4007|Default Diode|D21, D22, D24, D25, D27, D28, D29, D31, D32, D35, D36, D38, D39, D41, D42, D44, D45|LC-SOD-123|Diode|17
+23|白灯 0805|发光二极管|D23, D26, D30, D33, D34, D37, D40, D43|LC-0603_LED_S1|0805 白灯|8
+24|绿灯 0603|发光二极管|D46, D47|LC-0603_LED_S1|0|2
+25|25V/220uf|Electrolytic Capacitor|E1|C-RB-SD8|ELECTRO2|1
+26|220uF/16V|Electrolytic Capacitor|E2|C-RB-SD6|ELECTRO2|1
+27|10uf|Electrolytic Capacitor|E3|LC-CASE-B_3528|ELECTRO1|1
+28|22uF|Electrolytic Capacitor|E4, E7, E8, E9|LC-CASE-B_3528|ELECTRO2|4
+29|TAJA106M010RNJ|Electrolytic Capacitor|E5, E6, E10, E11|LC-CASE-A_3216|ELECTRO2|4
+30|103 200V|Capacitor|EC1, EC2, EC3, EC4|LC-1206_C|Cap|4
+31|EGND||EGND1, EGND2, EGND3, EGND4|H-6-3.2|EGND|4
+32|1M||ER1, ER2, ER3, ER4|LC-1206_R|RES2|4
+33|Fuse2|可恢复保险丝|F1|1812|Fuse2|1
+34|JK250-120U|保险丝|F2, F3, F5, F6, F7, F8|ntc250v|F, Fuse1|6
+35|Fuse1|保险丝|F4|0805-1|F|1
+36|Fuse1|保险丝|F9|LC-1206_R|Fuse1|1
+37|0R|Resistor|FB1, FB2|LC-0603_L|Res2|2
+38|Jump||J1, J2|JT|Jump|2
+39|G5NB-1A-5V||KM1, KM2, KM3, KM4, KM5, KM6, KM7, KM8|G5NB-1A-5V|G5NB-1A-5V|8
+40|Inductor|电感|L1|L-SMD-7|Ind|1
+41|22uh|电感|L2|L-40**|Ind|1
+42|Inductor|电感|L3|LC-0805_L|Ind|1
+43|EL357|反射式光电传感器|N1|lc-sop-4_P2.54|ST188|1
+44|Header 20|Header, 20-Pin|P1, P2|HDR_5.0_20P|Header 20|2
+45|EL357N(B)(TA)-G|贴片光耦|PHC1, PHC2, PHC3, PHC4|LC-SOP-4_P2.54|EL357N|4
+46|1K|Resistor, [NoValue], 贴片电阻|R1, R4, R5, R6, R7, R9, R11, R40, R43, R48, R51, R56, R60, R62, R63, R67, R68, R70, R71, R72|LC-0603_R|Res2, RES, R|20
+47|10K|[NoValue], Resistor|R2, R14, R18, R20, R24, R27, R31, R34, R38, R64, R66, R69|LC-0603_R|RES2|12
+48|3.24K||R3|LC-0603_R|RES2|1
+49|510R||R8|LC-0603_R|RES2|1
+50|120R||R10|LC-0603_R|RES|1
+51|4302/1W|Resistor|R12, R17, R19, R23, R26, R30, R33, R37|1812|Res2|8
+52|Res1|贴片电阻|R13, R15, R16, R21, R22, R25, R28, R29, R32, R35, R36, R39|0805-1|R|12
+53|200R|Resistor|R41, R44, R46, R49, R52, R54, R57, R59|LC-0603_R|Res2|8
+54|2K|Resistor|R42, R45, R47, R50, R53, R55, R58, R61|LC-0603_R|Res2|8
+55|1M|Resistor|R65|LC-0603_R|Res2|1
+56|10K|Potentiometer|R73|3296W|RPot|1
+57|MAX3085E||RS1|SOIC-8|MAX3085E|1
+58|SW-PB4|微动开关|S1|sw-4|SW-|1
+59|SW-DIP8|4009 Series DIP Switch, Raised actuator|S2|SW-DIP8|SW-DIP8|1
+60|Header 5|Header, 5-Pin|SWD1|SWD_5|Header 5|1
+61|P6KE6.8CA|TVS|TVS1, TVS2, TVS3|TVS|TVS|3
+62|TPS5430||U1|TPS5430|TPS5430|1
+63|ASM1117|3.3V稳压芯片|U2|SOT223|ASM1|1
+64|ULN2803||U3|LC-SOIC-18_300mil|ULN2803|1
+65|STM32F103RET6-64||U4|LC-LQFP-64_10x10x05P|STM32F103RBT6|1
+66|LM393||U5|sop-8|LM393|1
+67|25M|Crystal Oscillator|Y1|LC-SMD-5032_2P|XTAL|1

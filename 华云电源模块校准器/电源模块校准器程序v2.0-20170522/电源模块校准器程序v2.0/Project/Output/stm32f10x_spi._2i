@@ -1,0 +1,6 @@
+-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\Libraries\CMSIS -I..\Libraries\FWlib\inc -I..\User\User\Inc -I..\User\User_BSP\BSP\Usart -I..\User\User_BSP_Demo\Inc -I..\User\User_BSP\Inc
+-I C:\Users\Administrator\Desktop\STM32F10x¹¤³ÌÃþ°åV7.0.0\Project\RTE
+-I F:\keil5-22\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0
+-I F:\keil5-22\ARM\CMSIS\Include
+-D__UVISION_VERSION="514" -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER
+-o .\output\stm32f10x_spi.o --omf_browse .\output\stm32f10x_spi.crf --depend .\output\stm32f10x_spi.d --feedback ".\Output\Template.fed" "..\Libraries\FWlib\src\stm32f10x_spi.c"

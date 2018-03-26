@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=SYS.SchDoc
+Record=SheetSymbol|SourceDocument=SYS.SchDoc|Designator=U_74HC245|SchDesignator=U_74HC245|FileName=74HC245.SchDoc|SymbolType=Normal|RawFileName=74HC245.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=SYS.SchDoc|Designator=U_232串口|SchDesignator=U_232串口|FileName=232串口.SchDoc|SymbolType=Normal|RawFileName=232串口.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=SYS.SchDoc|Designator=U_POWER|SchDesignator=U_POWER|FileName=POWER.SchDoc|SymbolType=Normal|RawFileName=POWER.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=SYS.SchDoc|Designator=U_RS485|SchDesignator=U_RS485|FileName=RS485.SchDoc|SymbolType=Normal|RawFileName=RS485.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=SYS.SchDoc|Designator=U_STM32F103最小系统板|SchDesignator=U_STM32F103最小系统板|FileName=STM32F103最小系统板.SchDoc|SymbolType=Normal|RawFileName=STM32F103最小系统板.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=SYS.SchDoc|Designator=U_W5500|SchDesignator=U_W5500|FileName=W5500.SchDoc|SymbolType=Normal|RawFileName=W5500.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
